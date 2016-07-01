@@ -1,10 +1,10 @@
 # PopLetters
 
 ## Informations
-http://cynosura15.github.io/dev/pages/news/ *void*
+Jeu génial dans lequel vous devez appuyer sur la bonne touche correspondant aux lettres aléatoires affichées sur l'écran, avant qu'elles disparraissent !
 
 ## Version
-Derniere version: 22032016
+Derniere version: 22032016  (...)
 
 Release: https://github.com/cynosura15/PopLetters/releases
 
