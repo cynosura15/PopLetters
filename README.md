@@ -1,4 +1,5 @@
 # PopLetters
+![All Releases](https://img.shields.io/github/downloads/cynosura15/PopLetters/total.svg?style=flat-square)
 
 ## Informations
 Jeu génial dans lequel vous devez appuyer sur la bonne touche correspondant aux lettres aléatoires affichées sur l'écran, avant qu'elles disparraissent !
